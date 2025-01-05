@@ -1,0 +1,8 @@
+[
+  {
+    "Name": "ollama",
+    "Description": "AI assistant for micro text editor",
+    "Tags": ["ai", "ollama", "llm", "copilot"],
+    "Website": "https://github.com/dbradleyfl/ollama-ai-plugin"
+  }
+]
